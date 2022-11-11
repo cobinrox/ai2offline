@@ -1,6 +1,12 @@
 # ai2offline
 Develop MIT AI2 Apps Offline on Windows Using Docker Container
 
+Requirements:
+- Windows
+- Docker installed
+- Git installed
+- Internet access (to initially download dependencies)
+
 References:
 - https://github.com/mit-cml/appinventor-sources
 - REM https://github.com/himgodfreyho/appinventor-docker
