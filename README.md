@@ -1,5 +1,5 @@
 # ai2offline
-Develop MIT AI2 Apps Offline on Windows
+Develop MIT AI2 Apps Offline on Windows Using Docker Container
 
 References:
 - https://github.com/mit-cml/appinventor-sources
