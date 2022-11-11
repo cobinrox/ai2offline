@@ -1,0 +1,21 @@
+version: '3'
+# Compose file to create the image for and run the container for a container
+# that can be used to compile app-inventor source code and run the app-inventor
+# code as an ai2 server
+# You must download the latest version of the app-inventor source code ahead of
+# and place it at a location accessible by the container, and enter that location
+# down in the "volumes" section below
+#
+services:
+  ai2_service:
+    image: ai2s
+    container_name: ai2s
+    build: .
+    ports:
+     - "8888:8888"
+    # replace the location of your appinventor-source code dir on the left hand
+    # side of this volumes declaration
+    volumes:
+     - C:\Users\name\gitprojects\appinventor-sources:/root/appinventor-sources
+    stdin_open: true
+    tty: true
