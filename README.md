@@ -6,6 +6,7 @@ Requirements:
 - Docker installed
 - Git installed
 - Internet access (to initially download dependencies)
+- Some basic background knowledge of MIT AI2
 
 References:
 - https://github.com/mit-cml/appinventor-sources
