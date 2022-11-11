@@ -7,6 +7,7 @@ Requirements:
 - Git installed
 - Internet access (to initially download dependencies)
 - Some basic background knowledge of MIT AI2
+- To run MIT AI2 with the emulator, you'll need to have the AI2 emulator (aka AIStarter) installed
 
 References:
 - https://github.com/mit-cml/appinventor-sources
