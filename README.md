@@ -1,5 +1,6 @@
 # ai2offline
 Develop MIT AI2 Apps Offline on Windows Using Docker Container
+![ai2offline](resources/ai2offline.JPG "ai2offline")
 
 Requirements:
 - Windows
